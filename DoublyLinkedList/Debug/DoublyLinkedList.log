@@ -1,0 +1,5 @@
+﻿  doublyLinkedList.cpp
+c:\users\christy\source\repos\doublylinkedlist\doublylinkedlist\doublylinkedlist.cpp(135): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\christy\source\repos\doublylinkedlist\doublylinkedlist\doublylinkedlist.cpp(163): warning C4715: 'writeBinaryFile': not all control paths return a value
+c:\users\christy\source\repos\doublylinkedlist\doublylinkedlist\doublylinkedlist.cpp(260): warning C4715: 'generatedOrder': not all control paths return a value
+  DoublyLinkedList.vcxproj -> C:\Users\Christy\source\repos\DoublyLinkedList\Debug\DoublyLinkedList.exe
